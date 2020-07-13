@@ -9,7 +9,8 @@ A website for my Portfolio
 * jQuery
 
 ## Website
-https://githubmhagalaxy.github.io/Portfolio/
+https://github.com/Githubmhagalaxy/MyPortfolio
 
 ## Contribution
-Made with ❤️ by Mohammad H. Abbaspour# MyPortfolio
+Made with ❤️ by Mohammad H. Abbaspour
+# MyPortfolio

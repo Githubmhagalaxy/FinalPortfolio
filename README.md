@@ -7,6 +7,10 @@ A website for my Portfolio
 * CSS
 * JavaScript
 * jQuery
+* Node.js
+* Express.js
+* MySql
+* Heroku
 
 ## Website
 https://github.com/Githubmhagalaxy/MyPortfolio
